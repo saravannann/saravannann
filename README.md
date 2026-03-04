@@ -9,6 +9,8 @@
 💻 I thrive in dynamic environments, where I can apply my skills to lead development teams, enhance systems, and improve business outcomes. I believe in leveraging the power of technology to create meaningful, user-centric solutions. From full-stack development to exploring the latest frameworks, I’m always diving into something new.
   
 🎯 But it’s not just about coding for me. I love mentoring and helping junior developers grow, guiding them through complex challenges, and sharing knowledge that can shape their careers. For me, success is measured not just by the projects I complete but by the skills I help others develop along the way.
+
+I also enjoy observing finance. I am a long term wealth creator. Committed to long term investments. 
   
 - 🌱 I’m currently learning **Dynamic Programming, Python and AWS Services**
 - 📫 How to reach me - **srvnncs@gmail.com**
