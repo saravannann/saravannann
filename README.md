@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/saravannann/" target="_blank">
     <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/10428763/saravannann" target="blank">
-    <img alt="saravannann" height="25" src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/>
-  </a>
   <a href="https://www.hackerrank.com/profile/saravannann" target="blank">
     <img alt="saravannann" height="25" src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
   </a>
