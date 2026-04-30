@@ -114,12 +114,6 @@ I also enjoy observing finance. I am a long term wealth creator. Committed to lo
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="jira" />
   </a>
-  <a href="https://trello.com" target="_blank">
-    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" alt="trello" />
-  </a>
-  <a href="https://asana.com" target="_blank">
-    <img src="https://img.shields.io/badge/Asana-003366?logo=asana&logoColor=white" alt="asana" />
-  </a>
   <a href="https://swagger.io" target="_blank">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="swagger" />
   </a>
@@ -137,6 +131,9 @@ I also enjoy observing finance. I am a long term wealth creator. Committed to lo
   </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="webpack" />
+  </a>
+ <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20SQL-vCurrent-blue?logo=data)" alt="Azure SQL" />
   </a>
 </p>
 
