@@ -132,9 +132,38 @@ I also enjoy observing finance. I am a long term wealth creator. Committed to lo
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="webpack" />
   </a>
- <a href="https://azure.microsoft.com/en-us/products/azure-sql/database" target="_blank">
+  <a href="https://azure.microsoft.com/en-us/products/azure-sql/database" target="_blank">
     <img src="https://img.shields.io/badge/Azure%20SQL-vCurrent-blue?logo=data" alt="Azure SQL" />
   </a>
+ 
+<a href="https://flutter.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="flutter" />
+</a>
+<a href="https://kotlinlang.org" target="_blank">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="kotlin" />
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="springboot" />
+</a>
+
+<!-- Cloud & Database -->
+<a href="https://supabase.com" target="_blank">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="supabase" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="postgresql" />
+</a>
+
+<!-- Specialized & Emerging Tech -->
+<a href="https://openai.com" target="_blank">
+  <img src="https://img.shields.io/badge/Generative_AI-412991?logo=openai&logoColor=white" alt="genai" />
+</a>
+<a href="https://mqtt.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white" alt="mqtt" />
+</a>
 </p>
 
 ---
