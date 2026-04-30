@@ -132,8 +132,8 @@ I also enjoy observing finance. I am a long term wealth creator. Committed to lo
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="webpack" />
   </a>
- <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20SQL-vCurrent-blue?logo=data)" alt="Azure SQL" />
+ <a href="https://azure.microsoft.com/en-us/products/azure-sql/database" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20SQL-vCurrent-blue?logo=data" alt="Azure SQL" />
   </a>
 </p>
 
