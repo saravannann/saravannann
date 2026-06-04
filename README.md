@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=saravannann&style=flat-square" alt="Profile Views" />
 </p>
   
-👋 Hi, I'm **Saravanan Elumalai**, a dedicated **Staff Engineer at Walmart Global Tech**. With over 15 years of coding experience. I’m a passionate learner at heart, always eager to explore new technologies and find innovative ways to solve real-world problems. 🚀
+👋 Hi, I'm **Saravanan Elumalai**, a dedicated **Principal Engineer at Walmart Global Tech**. With over 15 years of coding experience. I’m a passionate learner at heart, always eager to explore new technologies and find innovative ways to solve real-world problems. 🚀
   
 💻 I thrive in dynamic environments, where I can apply my skills to lead development teams, enhance systems, and improve business outcomes. I believe in leveraging the power of technology to create meaningful, user-centric solutions. From full-stack development to exploring the latest frameworks, I’m always diving into something new.
   
